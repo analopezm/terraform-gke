@@ -1,2 +1,2 @@
-project_id = "REPLACE_ME"
-region     = "us-central1"
+project_id = "cloud-ops-sandbox-3314449137"
+region     = "europe-west1"
